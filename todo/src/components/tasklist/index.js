@@ -1,5 +1,5 @@
 import React from 'react';
-export class TaskList extends  React.Component{
+export default class TaskList extends  React.Component{
     render(){
         return(
 
